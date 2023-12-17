@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zekun Liu"
+title                    : "Weiqing Zhang"
 title_separator          : "-"
-name                     : &name "Zekun Liu"
+name                     : &name "Weiqing Zhang"
 description              : &description "Marketing Researcher"
-url                      : https://zekunliu-mkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://weiqingzhangmkt.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "zekunliu-mkt/zekunliu-mkt.github.io"
+repository               : "weiqingzhangmkt/weiqingzhangmkt.github.io"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,20 +79,20 @@ analytics:
   google:
     tracking_id          : 
   goatcounter:
-    code		 : zekunliu-mkt
+    code		 : weiqingzhangmkt
 
 
 # Site Author
 author:
-  name             : "Zekun Liu"
+  name             : "Weiqing Zhang"
   avatar           : "Solid_black.png"
   bio              : " "
   location         :
   employer         :
   pubmed           :
-  orcid            : "https://orcid.org/0000-0003-4660-9041"
-  googlescholar    : "https://scholar.google.com/citations?user=e8RzsrgAAAAJ&hl=en&oi=sra"
-  email            : "zl3126@stern.nyu.edu"
+  orcid            : "https://orcid.org/0000-0002-9939-7479"
+  googlescholar    : "https://scholar.google.com/citations?user=RGygv0AAAAAJ&hl=en"
+  email            : "wz1571@stern.nyu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
