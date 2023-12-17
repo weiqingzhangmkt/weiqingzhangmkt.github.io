@@ -1,6 +1,6 @@
 ---
 permalink: /software/
-title: "Software"
+title: "Page Not Found"
 gallery:
   - url: software/table.png
     image_path: software/table.png
@@ -18,7 +18,22 @@ header:
   og_image: "software/spatial_weighting.png"
 ---
 
-As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again.
+
+Sorry, but the page you were trying to view is missing
+
+$$
+\sqrt{\frac{\sum_{i=1}^m (\theta_i - \overline{\theta})^2}{N-1}}
+$$
+
+<script type="text/javascript">
+  var GOOG_FIXURL_LANG = 'en';
+  var GOOG_FIXURL_SITE = '{{ site.url }}'
+</script>
+<script type="text/javascript"
+  src="//linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+</script>
+
+<!-- As one of my two research agendas involves improving the tools we use to study peace and conflict, a good deal of my time is spent using statistical software. Below you'll find software for working with estimates from Bayesian models and some code that I've written to save time on tasks that I find myself doing over and over again. -->
 
 <!-- # BayesPostEst
 
