@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: compress
 title: "Sitemap"
 permalink: /sitemap/
 author_profile: true
