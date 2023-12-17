@@ -1,7 +1,7 @@
 ---
 sitemap: false
 permalink: /software/
-title: "Page Not Found"
+title: "Software"
 gallery:
   - url: software/table.png
     image_path: software/table.png
