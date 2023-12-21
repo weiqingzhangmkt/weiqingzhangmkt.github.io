@@ -16,4 +16,4 @@ My research primarily focuses on the field of quantitative marketing, aiming to 
 
 You can download a PDF copy of my current CV [here](/files/pdf/CV__WeiqingZhang.pdf).
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=t1BvqFYp71LBhBKXwfUUbS4wu0ohVuZGQyTv-DcVM4Y"></script>
+<!-- <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=t1BvqFYp71LBhBKXwfUUbS4wu0ohVuZGQyTv-DcVM4Y"></script> -->
