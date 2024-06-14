@@ -8,15 +8,15 @@ header:
 ---
 
 ## Working Papers
-- [Doubling Revenues by Adopting Livestream Shopping: A Synthedic DiD Approach.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
+- [The Power of Livestream Shopping: Boosting Revenues and Catalyzing Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
     - *with* Zekun Liu, Xiao Liu, and Eitan Muller
-    - **Major Revision** at *Marketing Science*
+    - **Under Review**
 - [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) 
     - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong
     - **Major Revision** at *International Journal of Research in Marketing*
 - [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309)
     - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
-    - **Major Revision** at *International Journal of Research in Marketing*
+    - **Revise and Resubmit** at *International Journal of Research in Marketing*
 - The Value of Content Inclusiveness: Evidence from A Social Media Platform.
     - *with* Masakazu Ishihara
 
