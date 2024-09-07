@@ -10,7 +10,7 @@ header:
 ## Working Papers
 - [The Power of Livestream Shopping: Boosting Revenues and Catalyzing Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
     - *with* Zekun Liu, Xiao Liu, and Eitan Muller
-    - **Under Review**
+    - **Risky Revision** at *Journal of Marketing Research*
 - [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) 
     - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong
     - **Major Revision** at *International Journal of Research in Marketing*
