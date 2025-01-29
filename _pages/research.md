@@ -17,7 +17,7 @@ header:
 - [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309)
     - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
     - **Revise and Resubmit** at *International Journal of Research in Marketing*
-- The Value of Content Inclusiveness: Evidence from A Social Media Platform.
+- The Impacts of Content Inclusiveness and Content Moderation Practices: Evidence From a Social Media Platform.
     - *with* Masakazu Ishihara
 
 
