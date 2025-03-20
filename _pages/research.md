@@ -14,9 +14,6 @@ header:
 - [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) 
     - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong
     - **Major Revision** at *International Journal of Research in Marketing*
-- [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309)
-    - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
-    - **Conditional Acceptance** at *International Journal of Research in Marketing*
 - The Impacts of Content Inclusiveness and Content Moderation Practices: Evidence From a Social Media Platform.
     - *with* Masakazu Ishihara
 
@@ -24,6 +21,9 @@ header:
 ## Publications
 - [From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4666) *Management Science* (2023) 
     - *with* Xiang Hui, and Zekun Liu
+- [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309)
+    - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
+    - **Accepted** at *International Journal of Research in Marketing*
 
 
 ## Selected Work in Progress
