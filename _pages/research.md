@@ -23,7 +23,7 @@ header:
     - *with* Xiang Hui, and Zekun Liu
 - [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309)
     - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
-    - **Accepted** at *International Journal of Research in Marketing*
+    - **Accepted** in *International Journal of Research in Marketing*
 
 
 ## Selected Work in Progress
