@@ -21,7 +21,7 @@ header:
 ## Publications
 - [From High Bar to Uneven Bars: The Impact of Information Granularity in Quality Certification.](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2022.4666) *Management Science* (2023) 
     - *with* Xiang Hui, and Zekun Liu
-- [Customer Return Rate Evolution.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3895309) *International Journal of Research in Marketing* (forthcoming)
+- [Customer Return Rate Evolution.](https://www.sciencedirect.com/science/article/pii/S0167811625000230) *International Journal of Research in Marketing* (forthcoming)
     - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
     
 
