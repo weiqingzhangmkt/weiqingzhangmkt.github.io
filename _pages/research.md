@@ -15,8 +15,7 @@ header:
     - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong
     - **Conditional Accept** at *International Journal of Research in Marketing*
 - Building AI Agents for Marketing Research
-    - *with* Shijian Liu, Manlu Ouyang, Jiayu Li, Heysoo Lee, Zekun Liu, Selina Xuan Wang, Sonia Gupta, Yuting Deng, Nina Sayson, and Xiao Liu
-    - **Under Review** at *Journal of Marketing Research*    
+    - *with* Shijian Liu, Manlu Ouyang, Jiayu Li, Heysoo Lee, Zekun Liu, Selina Xuan Wang, Sonia Gupta, Yuting Deng, Nina Sayson, and Xiao Lius
 - The Impacts of Content Inclusiveness and Content Moderation Practices: Evidence From a Social Media Platform.
     - *with* Masakazu Ishihara
 
