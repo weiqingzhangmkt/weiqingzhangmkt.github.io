@@ -22,9 +22,8 @@ header:
     - *with* Xiang Hui, and Zekun Liu
 - [Customer Return Rate Evolution.](https://www.sciencedirect.com/science/article/pii/S0167811625000230) *International Journal of Research in Marketing* (forthcoming)
     - *with* Siham El Kihal, Tülin Erdem, and Christian Schulze
-- [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) 
-    - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong
-    - **Accept** at *International Journal of Research in Marketing*    
+- [Success and Survival in Livestream Shopping.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4028092) *International Journal of Research in Marketing (forthcoming)*    
+    - *with* Zekun Liu, Xiao Liu, Eitan Muller, and Feiyu Xiong  
     
 
 
