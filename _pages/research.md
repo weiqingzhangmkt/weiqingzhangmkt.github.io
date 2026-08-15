@@ -10,7 +10,7 @@ header:
 ## Working Papers
 - [The Power of Livestream Shopping: Boosting Revenues and Catalyzing Spillovers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4318978) 
     - *with* Zekun Liu, Xiao Liu, and Eitan Muller
-    - **Risky Revision** at *Journal of Marketing Research*
+    - **Under Review** 
 - Building AI Agents for Marketing Research
     - *with* Shijian Liu, Manlu Ouyang, Jiayu Li, Heysoo Lee, Zekun Liu, Selina Xuan Wang, Sonia Gupta, Yuting Deng, Nina Sayson, and Xiao Liu
 - The Impacts of Content Inclusiveness and Content Moderation Practices: Evidence From a Social Media Platform.
